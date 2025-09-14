@@ -1,6 +1,7 @@
 <?php include "templates/header.php"; ?>
 
 <div class="center-align">
+	<h2>Update Azure app</h2>
 	<ul>
 		<div class="left-align">
 			<li><a href="read.php"><strong>View Catalog</strong></a></li>
